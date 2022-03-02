@@ -1,0 +1,26 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>newFormat</groupId>
+  <artifactId>newFormat</artifactId>
+  <version>0.0.1-SNAPSHOT</version>
+       <dependencies>
+  <!-- https://mvnrepository.com/artifact/org.apache.hadoop/hadoop-core -->
+<!-- https://mvnrepository.com/artifact/org.apache.hadoop/hadoop-client -->
+
+<!-- https://mvnrepository.com/artifact/org.apache.hadoop/hadoop-client -->
+<!-- https://mvnrepository.com/artifact/org.apache.hadoop/hadoop-client -->
+<dependency>
+    <groupId>org.apache.hadoop</groupId>
+    <artifactId>hadoop-client</artifactId>
+    <version>2.9.0</version>
+</dependency>
+
+
+  
+  </dependencies>
+  <properties>
+     <maven.compiler.source>1.8</maven.compiler.source>
+     <maven.compiler.target>1.8</maven.compiler.target>
+</properties>
+  
+</project>
